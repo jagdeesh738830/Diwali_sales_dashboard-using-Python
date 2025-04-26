@@ -40,3 +40,9 @@ This project analyzes Diwali sales data using Python. It explores customer demog
 1. Clone the repository.
 2. Open `diwali_sales_analysis.ipynb` in Jupyter Notebook.
 3. Run all cells to see visualizations and insights
+---
+⚠️ **Note:**  
+This project is created and owned by **Jagdeesh**.  
+Unauthorized copying, reproduction, or claiming this project as your own in any portfolio, resume, or job application is strictly prohibited.  
+Feel free to refer and learn from it, but please respect original ownership.
+---
